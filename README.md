@@ -1,8 +1,8 @@
 ### Meu nome é José Henrique Barros, e atualmente sou estudante de programação
 <div align="center">
   <a href="https://github.com/jhenriqueb12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhenriqueb12&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhenriqueb12&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jhenriqueb12&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhenriqueb12&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
