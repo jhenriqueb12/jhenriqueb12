@@ -1,4 +1,4 @@
-### Meu nome é José Henrique Barros, e atualmente sou estudante de programação
+### José Henrique Barros
 <div align="center">
   <a href="https://github.com/jhenriqueb12">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jhenriqueb12&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
